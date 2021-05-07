@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Judith E. Canner, PhD",
+      "author": [],
+      "contents": "\n\n          \n      \n      Judith E. Canner, PhD\n      \n      \n      Home\n      About\n      ☰\n      \n      \n      \n        \n          \n            Judith E. Canner, PhD\n          \n          \n            \n              Dr. Judith E. Canner is a Professor of Statistics in the Department of Mathematics and Statistics at California State University, Monterey Bay where she serves as the Statistics Program Coordinator for the Statistics Minor and Statistics B.S. Dr. Canner is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program and oversees faculty development and training, and curriculum development in data science across disciplines, including the development of a planned Data Science minor.\n            \n            \n              Dr. Judith E. Canner is a Professor of Statistics in the Department of Mathematics and Statistics at California State University, Monterey Bay where she serves as the Statistics Program Coordinator for the Statistics Minor and Statistics B.S. Dr. Canner is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program and oversees faculty development and training, and curriculum development in data science across disciplines, including the development of a planned Data Science minor.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-05-06T21:02:28-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Judith E. Canner, PhD",
+      "description": "Welcome to my portfolio!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-06T21:02:29-07:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "About Me",
+      "description": "Who am I?",
+      "author": [],
+      "contents": "\nDr. Judith E. Canner is a Professor of Statistics in the Mathematics and Statistics Department at California State University, Monterey Bay where she serves as the Statistics Program Coordinator for the Statistics Minor and Statistics B.S. Dr. Canner is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program and oversees an undergraduate summer research program, faculty development and training, and curriculum development in data science across disciplines, including the development of a planned Data Science minor. Dr. Canner is also the current Chair of the SIGMAA on Statistics Education and the Chair of the ASA-MAA Joint Committee on Undergraduate Statistics and Data Science Education. Her professional interests include expanding statistics and data science education, data literacy, and data for good.\n\n\n\n",
+      "last_modified": "2021-05-06T21:02:30-07:00"
+    }
+  ],
+  "collections": []
+}

@@ -1,0 +1,17 @@
+---
+title: "Judith E. Canner, PhD"
+image: "Canner_Judith_CSUMB_square.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/judith-canner-21a08021"
+  - label: Twitter
+    url: "https://twitter.com/DrCanner"
+  - label: GitHub
+    url: "https://github.com/jcanner"
+  - label: Email
+    url: "mailto:jcanner@csumb.edu"
+output:
+  postcards::jolla
+---
+ 
+Dr. Judith E. Canner is a Professor of Statistics in the Department of Mathematics and Statistics at California State University, Monterey Bay where she serves as the Statistics Program Coordinator for the Statistics Minor and Statistics B.S.  Dr. Canner is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program and oversees faculty development and training, and curriculum development in data science across disciplines, including the development of a planned Data Science minor. 
